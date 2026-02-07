@@ -49,6 +49,8 @@ Therefore, given target values for chromatic dispersion and attenuation loss plu
 2. Determine the maximum allowable chromatic dispersion  
 3. Based on the results of (1) and (2), determine the lengths of the transmission fiber and the DCF  
 
+![WhatsApp Image 2026-02-07 at 1 14 25 PM](https://github.com/user-attachments/assets/19616e74-36ef-4615-9446-b7e35bf6ced2)
+
 ---
 
 ## Layout
@@ -86,7 +88,9 @@ The main physical components of this layout are:
 
 ## Further Simulation and Analysis
 - Set the DCF length to 0 and run the simulation again.  
-- Record similar measurements for comparison.  
+- Record similar measurements for comparison.
+  <img width="1919" height="1079" alt="Screenshot 2026-02-04 092100" src="https://github.com/user-attachments/assets/1787b8ca-40b8-4bd5-8c31-6c70c73a8ba6" />
+  <img width="1919" height="1079" alt="Screenshot 2026-02-04 092135" src="https://github.com/user-attachments/assets/5fa09dba-5dce-49bd-81b6-b3902331cb9b" />
 
 ---
 
